@@ -1,0 +1,1 @@
+scp -r /Users/swj/data/cspj/site aws:/usr/share/nginx/

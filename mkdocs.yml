@@ -1,0 +1,14 @@
+site_name: computer sciencs
+nav:
+  - Home: index.md
+  - 代写范围: cs.md
+  - 价格: prices.md
+  - 联系我们: contact.md
+  - 博客: blog.md
+theme: cosmo
+extra_css:
+  - css/extra.css 
+markdown_extensions:
+  - admonition
+  - footnotes
+copyrights: CS
